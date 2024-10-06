@@ -4,15 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This meetup is inspired by [ACX Meetups Everywhere](https://astralcodexten.substack.com/p/meetups-everywhere-2024-times-and) and groups like [Rationality Freiburg](http://www.rationality-freiburg.de). 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+We aim to create a space where people who enjoy discussing rationalist topics can meet regularly. Whether it's articles from LessWrong or ACX, AI timelines, or other topics, we invite you to join us.
 
-
-[jekyll-organization]: https://github.com/jekyll
+We meet on the first Wednesday of every month. Keep an eye on the **Events** page for upcoming meetups!
